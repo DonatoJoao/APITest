@@ -17,6 +17,7 @@ public class DictionaryApp {
          */
 
 
+        //DatasWebService datasWebService = new DatasWebService();
 
         Scanner scn = new Scanner(System.in); //para capturar entrada da palavra a ser pesquisada
         System.out.println("Type a word to search:");
