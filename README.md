@@ -1,5 +1,5 @@
 
-# Estudando API 
+# Estudando API (Em construção)
 
 Aprendendo e praticando sobre consumo/detalhes/métodos sobre uso de APIs
 
